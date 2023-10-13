@@ -1,0 +1,172 @@
+*{
+   margin: 0;
+   padding: 0;
+   outline: 0; 
+}
+.Home{
+    width: 99vw;
+    height: 90vh;
+    display: flex;
+}
+.LeftContainer{
+    width: 60vw;
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 20px;
+    
+}
+.Header{
+    height: 88px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.Logo{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    
+}
+.Logo img{
+    width: 50px;
+    
+}
+
+
+.Link ul{
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+    justify-content: flex-end;
+}
+.Link ul a{
+    
+    text-decoration: none;
+    color: black;
+}
+.Menu{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.MenuButton button{
+    margin-left: 20px;
+    padding: 2px 10px ;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+ .MenuButton .Login{
+    background-color: orangered;
+    color: white;
+    border-color: orangered;
+ }
+
+.RightContainer{
+    width: 39vw;
+}
+.HeaderTittle{
+    font-family: 'Inter', sans-serif;
+    margin-top: 50px;
+}
+h1{
+    margin-bottom: 10px;
+}
+h3 span{
+    margin-right: 15px;
+    font-weight: 250;
+}
+.safety{
+    color: green;
+}
+.security{
+    color: orangered;
+}
+.punctuality{
+    color: blue;
+}
+.SubButton{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.SubButton button{
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 2px 0px 2px;
+    background-color: white;
+}
+.SubButton .book{
+    background-color: #213D77;
+    color: white;
+}
+.Station{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+    align-items: center;
+    font-family: 'inter';
+}
+.from{
+    display: flex;
+    flex-direction: column;
+    
+}
+.g{
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    font-size: small;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+}
+.code{
+    padding-left: 50px;
+    font-size: small;
+    
+}
+
+.TrainDate{
+    display: flex;
+    justify-content: space-around;
+    margin-top:40px;
+}
+.date{
+    display: flex;
+    align-items: center;
+    font-size: small;
+}
+h3{
+    margin-left: 30px;
+}
+.day{
+    font-size: small;
+    margin-left: 30px
+    
+}
+
+.SearchTrainButton button{
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 50px;
+    width: 50vw;
+    border-radius: 5px;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: large;
+
+    
+}
+
+.RightContainer img{
+    height: 90vh;
+}SS

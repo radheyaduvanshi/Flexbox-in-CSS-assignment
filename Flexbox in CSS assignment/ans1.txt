@@ -1,0 +1,9 @@
+Flexbox: Flexbox is designed for one-dimensional layouts, either in a row or a column. It's best suited for laying out items within a single axis,
+         such as a navigation menu or a row of cards.
+
+Grid: Grid is designed for two-dimensional layouts. It allows us to create a grid of rows and columns, making it suitable for complex layouts 
+      where we need to control both horizontal and vertical positioning, like a page with header, sidebar, content, and footer.
+
+we choose Flexbox when we need to create one-dimensional layouts with items aligned along a single axis. while we Choose Grid when we
+need to create two-dimensional layouts with precise control over rows and columns. Often, we may find that a combination of both Flexbox and Grid
+is the most effective way to achieve our desired layout for complex web designs.

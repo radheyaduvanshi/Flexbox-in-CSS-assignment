@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    
+}
+.PricingSection {
+    width: 962px;
+    height: 427px;
+    border: 2px solid;
+    padding: 32px 48px 32px 48px;
+    gap: 32px;
+    background-color: #F4F2FD;
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+.PricingCard {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+    width: 262px;
+    height: 363px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    filter: drop-shadow(0 0 0.75rem #000000)
+    
+    
+}
+
+.PricingCard2 {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+    width: 262px;
+    height: 363px;
+    background-color: #202842;
+    border-radius: 8px;
+    color: white;
+}
+
+.PricingCardDetails {
+    width: 198px;
+    height: 306px;
+    padding: 4px 8px 4px 8px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.Prize{
+    line-height: 60px;
+}
+.CardPlan{
+    width: 198px;
+    height: 112px;
+    padding: 0px 0px 0px 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.Checkmark img{
+    width: 20px;
+    height: 20px;
+    padding-right: 10px;
+}
+.PlanGroup{
+    display: flex;
+}
+
+   
+
+button{
+width: 156px;
+height: 38px;
+border-radius: 50px;
+background-color: #202842;
+color: white;
+margin: 20px;
+}
+.Button2{
+    background-color: white;
+    color: #202842;
+
+}
+

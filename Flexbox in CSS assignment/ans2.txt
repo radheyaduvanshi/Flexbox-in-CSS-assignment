@@ -1,0 +1,32 @@
+1-Justify content-
+                  Role: Determines how flex items are distributed along the main axis within the flex container.
+                  Values:
+                         flex-start: Items are aligned to the start of the main axis (default).
+                         flex-end: Items are aligned to the end of the main axis.
+                         center: Items are centered along the main axis.
+                         space-between: Items are evenly distributed with space between them.
+                         space-around: Items are evenly distributed with space around them.
+2-Align items-
+                 Role: Specifies how flex items are aligned along the cross axis within the flex container.
+                 Values:
+                         stretch: Items are stretched to fill the container's cross-axis (default).
+                         flex-start: Items are aligned at the start of the cross axis.
+                         flex-end: Items are aligned at the end of the cross axis.
+                         center: Items are centered along the cross axis.
+                         baseline: Items are aligned based on their baseline.
+3-Gap-
+      gap property is used to define the gap between the row and column.
+
+4-Flex-direction-
+                 Role: Determines the main axis along which flex items are laid out within the flex container.
+                 Values:
+                 row: Items are laid out in the horizontal direction (default).
+                 row-reverse: Items are laid out in the horizontal direction but in reverse order.
+                 column: Items are laid out in the vertical direction.
+                 column-reverse: Items are laid out in the vertical direction but in reverse order.
+5-Flex wrap-
+                 Role: Specifies whether flex items should wrap to the next line if they don't fit within the flex container's dimensions.
+                 Values:
+                        nowrap: Items are forced to stay on a single line (default).
+                        wrap: Items wrap onto multiple lines if necessary.
+                        wrap-reverse: Items wrap onto multiple lines in reverse order.
